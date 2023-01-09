@@ -1,6 +1,6 @@
 <template>
 <ContentBase>
-  首页
+    注册
 </ContentBase>
 
 </template>
@@ -9,9 +9,10 @@
 import ContentBase from '../components/ContentBase'
 
 export default {
-  name: 'HomeView',
-  components: {
-    ContentBase,
-  }
+    name: 'RegisterView',
+    components: {
+        ContentBase,
+    }
 }
 </script>
+    

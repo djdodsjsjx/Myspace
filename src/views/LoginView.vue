@@ -1,6 +1,6 @@
 <template>
 <ContentBase>
-  首页
+    登录
 </ContentBase>
 
 </template>
@@ -9,9 +9,9 @@
 import ContentBase from '../components/ContentBase'
 
 export default {
-  name: 'HomeView',
-  components: {
-    ContentBase,
-  }
+    name: 'LoginView',
+    components: {
+        ContentBase,
+    }
 }
 </script>
